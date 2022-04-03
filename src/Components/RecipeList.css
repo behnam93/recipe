@@ -1,0 +1,13 @@
+.card-rotate {
+  min-height: 100px;
+  transition-duration: 0.4s;
+}
+.card-rotate:hover {
+  transform: rotate(3deg);
+}
+.btnscalee {
+  transition: all 0.6s ease-in-out;
+}
+.btnscalee:hover {
+  transform: scale(1.1);
+}

@@ -1,0 +1,22 @@
+.form-control:hover::-webkit-input-placeholder { /* Edge */
+    color: rgb(223, 217, 217);
+  }
+  
+.form-control:hover:-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color: rgb(223, 217, 217);
+  }
+  
+.form-control:hover::placeholder {
+    color: rgb(223, 217, 217);
+  }
+.form-control::selection::-webkit-input-placeholder { /* Edge */
+    color: rgb(223, 217, 217);
+  }
+  
+.form-control::selection:-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color: rgb(223, 217, 217);
+  }
+  
+.form-control::selection::placeholder {
+    color: rgb(223, 217, 217);
+  }

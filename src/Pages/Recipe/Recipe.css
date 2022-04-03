@@ -1,0 +1,42 @@
+.img-det {
+  width: 100%;
+}
+
+.mine-grid {
+  display: grid;
+  grid-template-columns: 1fr 4fr;
+  column-gap: 4px;
+}
+.ingredients:last-child::after {
+  content: ".";
+}
+.ingredients ul {
+  padding: 0;
+  justify-content: center;
+  margin-top: 0;
+}
+.ingredients li {
+  display: inline;
+  list-style-type: none;
+  margin-right: 10px;
+  color: #777;
+}
+
+.ingredients li:after {
+  content: ", ";
+}
+.ingredients li:last-child::after {
+  content: ".";
+}
+.recipe-method {
+  text-align: left;
+  justify-content: left;
+}
+.recipebox {
+  max-width: 75%;
+}
+@media(max-width: 575px){
+  .recipebox {
+    max-width: 90%;
+  }
+}

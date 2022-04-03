@@ -1,0 +1,14 @@
+.button-back {
+  font-family: "Fredoka", sans-serif;
+}
+.height100 {
+  height: 100%;
+}
+@media (max-width: 991.99px) {
+  li .button-back {
+    width: 99.9%;
+    margin-top: 2px;
+    padding: 4px 30px;
+    margin-left: 0 !important;
+  }
+}
