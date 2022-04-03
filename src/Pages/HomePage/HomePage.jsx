@@ -6,7 +6,9 @@ import { ClipLoader } from "react-spinners";
 import { css } from "@emotion/css";
 
 export default function HomePage() {
-  const { data, isPending, error } = useFetch("http://localhost:5000/recipes");
+  const { data, isPending, error } = useFetch(
+    "https://behrecipe.netlify.app/db.json/recipes"
+  );
   let [color, setColor] = useState("#ffffff");
   const override = css`
     border-color: red;
