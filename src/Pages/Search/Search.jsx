@@ -11,7 +11,8 @@ export default function Search() {
   const location = useLocation().search;
   const queryParams = new URLSearchParams(location);
   const query = queryParams.get("q");
-  const url = " https://behrecipe.netlify.app/db.json/recipes?q=" + query;
+  const url =
+    "https://behnam93.github.io/data/mydata.geojson/recipes?q=" + query;
   const { error, isPending, data } = useFetch(url);
   console.log(`data : ${data}`);
   let [color, setColor] = useState("#ffffff");
