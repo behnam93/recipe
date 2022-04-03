@@ -8,7 +8,7 @@ import { css } from "@emotion/css";
 export default function Recipe() {
   const params = useParams();
   const { data, isPending, error } = useFetch(
-    `http://localhost:5000/recipes/${params.id}`
+    `https://my-json-server.typicode.com/behnam93/behnam93.github.io/recipes/${params.id}`
   );
   let [color, setColor] = useState("#ffffff");
   const override = css`
