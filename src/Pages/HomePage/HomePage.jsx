@@ -7,7 +7,7 @@ import { css } from "@emotion/css";
 
 export default function HomePage() {
   const { data, isPending, error } = useFetch(
-    "https://behrecipe.netlify.app/db.json"
+    "https://my-json-server.typicode.com/behnam93/behnam93.github.io/recipes"
   );
   let [color, setColor] = useState("#ffffff");
   const override = css`
@@ -26,7 +26,7 @@ export default function HomePage() {
           />
         </div>
       )}
-      {data && <RecipeList recipes={data.recipes.slice(0, 12)} />}
+      {data && <RecipeList recipes={data.slice(0, 12)} />}
     </div>
   );
 }
