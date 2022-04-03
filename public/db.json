@@ -1,0 +1,261 @@
+{
+    "recipes": [
+      {
+        "id": "1",
+        "title": "Veggie Stew",
+        "ingredients": [
+          "1 Carrot",
+          "1 Leek",
+          "200g Tofu",
+          "300ml Veg stock"
+        ],
+        "img": "./images/Veggie-Stew.jpg",
+        "method": "1. Pre-heat the oven to 200C/3C/gas 5. Place the carrot, leek and tofu in a large bowl. Add the stock and mix well. 2. Add the rest of the ingredients and mix well. 3. Place the mixture in a large bowl and cover with a lid. 4. Place the lid on the oven and cook for 40 minutes. 5. Serve with a slaw of your choice",
+        "cookingTime": "45 minutes"
+      },
+      {
+        "id": "2",
+        "title": "Veggie Pizza",
+        "ingredients": [
+          "1 Base",
+          "Tomata pasata",
+          "1 Green pepper",
+          "100g Mushrooms"
+        ],
+        "img": "./images/Veggie-Pizza.jpg",
+        "method": "1. Pre-heat the oven to 200C/3C/gas 5. Add the pasata, green pepper and mushrooms to the base. Place the lid on the oven and cook for 30 minutes. 5. Serve with a slaw of your choice",
+        "cookingTime": "35 minutes"
+      },
+      {
+        "id": "3",
+        "title": "Greek Salad",
+        "ingredients": [
+          "1 Onion",
+          "1 Block of Feta",
+          "Olives",
+          "Tomatoes",
+          "Olive Oil"
+        ],
+        "img": "./images/greek-salad.jpg",
+        "method": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse minima ex rem quis similique eum ratione quaerat, voluptas molestias ut repudiandae delectus voluptates. Eius esse at tenetur ab accusamus excepturi?",
+        "cookingTime": "35 minutes"
+      },
+      {
+        "id": "4",
+        "title": "Caesar Salad",
+        "ingredients": [
+          "1 large or 2 small heads of romaine lettuce",
+          "Parmesan cheese, shredded or shaved",
+          "Crisp croutons",
+          "Caesar salad dressing",
+          "Olive Oil"
+        ],
+        "img": "./images/Caesar-Salad.jpg",
+        "method": "In a large mixing bowl, combine all of your ingredients and toss gently to coat the lettuce in caesar dressing. This recipe makes enough croutons for two full salads so you’ll have them ready to go for round 2!",
+        "cookingTime": "30 minutes"
+      },
+      {
+        "title": "Apple Pie",
+        "ingredients": [
+          "2 ½ cups flour(315 g)",
+          "1 teaspoon salt",
+          "1 ½ sticks butter, 1 1/2 sticks, cold, cubed",
+          "8 tablespoons ice water, or as needed"
+        ],
+        "img": "./images/Apple-Pie.jpg",
+        "method": "In a medium-sized bowl, add the flour and salt. Mix with fork until combined. Add in cubed butter and break up into flour with a fork. Mixture will still have lumps about the size of small peas. Gradually add the ice water and continue to mix until the dough starts to come together. You may not need all of the water, but if the dough is too dry then add more. The dough should not be very tacky or sticky. Work the dough together with your hands and turn out onto a surface. Work into a ball and cover with cling wrap. Refrigerate. Preheat the oven to 375°F (200°C).",
+        "cookTime": "60 minutes",
+        "id": "CV0evgy"
+      },
+      {
+        "id": "5",
+        "title": "Chorizo & mozzarella bake",
+        "ingredients": [
+          "1 tbsp olive oil",
+          "1 onion , finely chopped",
+          "2 garlic cloves , crushed",
+          "120g chorizo , diced",
+          "2 x 400g cans chopped tomatoes",
+          "1 tsp caster sugar",
+          "600g fresh gnocchi",
+          "125g mozzarella ball, cut into chunks"
+        ],
+        "img": "./images/Chorizo-mozzarella-gnocchi-bake.jpg",
+        "method": "1. Pre-heat the oven to 200C/3C/gas 5. Place the carrot, leek and tofu in a large bowl. Add the stock and mix well. 2. Add the rest of the ingredients and mix well. 3. Place the mixture in a large bowl and cover with a lid. 4. Place the lid on the oven and cook for 40 minutes. 5. Serve with a slaw of your choice",
+        "cookingTime": "45 minutes"
+      },
+      {
+        "id": "6",
+        "title": "Teriyaki chicken",
+        "ingredients": [
+          "2 tbsp toasted sesame oil",
+          "2 large garlic cloves, crushed",
+          "1 thumb-sized piece ginger, grated",
+          "50g runny honey",
+          "30ml light soy sauce",
+          "1 tbsp rice wine vinegar",
+          "1 tbsp sesame seeds , to serve",
+          "sticky rice, to serve"
+        ],
+        "img": "./images/teriyaki-chicken.jpg",
+        "method": "1. Pre-heat the oven to 200C/3C/gas 5. Place the carrot, leek and tofu in a large bowl. Add the stock and mix well. 2. Add the rest of the ingredients and mix well. 3. Place the mixture in a large bowl and cover with a lid. 4. Place the lid on the oven and cook for 40 minutes. 5. Serve with a slaw of your choice",
+        "cookingTime": "35 minutes"
+      },
+      {
+        "id": "7",
+        "title": "Chocolate fudge cake",
+        "ingredients": [
+          "150ml sunflower oil, plus extra for the tin",
+          "175g self-raising flour",
+          "2 tbsp cocoa powder",
+          "150g caster sugar",
+          "150ml semi-skimmed milk",
+          "2 large eggs, lightly beaten",
+          "2 tbsp golden syrup"
+        ],
+        "img": "./images/chocolate-fudge-cake.jpg",
+        "method": "Heat the oven to 180C/160C fan/gas 4. Oil and line the base of two 18cm sandwich tins. Sieve the flour, cocoa powder and bicarbonate of soda into a bowl. Add the caster sugar and mix well.",
+        "cookingTime": "55 minutes"
+      },
+      {
+        "id": "8",
+        "title": "Vegetarian lasagne",
+        "ingredients": [
+          "3 red peppers, cut into large chunks",
+          "2 aubergines, cut into ½ cm thick slices",
+          "8 tbsp olive oil, plus extra for the dish",
+          "300g lasagne sheets",
+          "125g mozzarella",
+          "handful cherry tomatoes, halved",
+          "1 tbsp olive oil"
+        ],
+        "img": "./images/Vegetarian-lasagne.jpg",
+        "method": "To make the tomato sauce, heat the olive oil in a saucepan. Add the onions, garlic and carrot. Cook for 5-7 mins over a medium heat until softened. Turn up the heat a little and stir in the tomato purée. Cook for 1 min, pour in the white wine, then cook for 5 mins until this has reduced by two-thirds. Pour over the chopped tomatoes and add the basil leaves. Bring to the boil then simmer for 20 mins. Leave to cool then whizz in a food processor. To make the white sauce, melt the butter in a saucepan, stir in the plain flour, then cook for 2 mins. Slowly whisk in the milk, then bring to the boil, stirring. Turn down the heat, then cook until the sauce starts to thicken and coats the back of a wooden spoon.",
+        "cookingTime": "1 hr and 10 mins"
+      },
+      {
+        "id": "9",
+        "title": "Chicken curry",
+        "ingredients": [
+          "2 tbsp sunflower oil",
+          "2  onion, thinly sliced",
+          "2 garlic cloves, crushed",
+          "6 chicken thighs, boneless and skinless",
+          "125g mozzarella",
+          "400g can chopped tomatoes",
+          "1 tbsp olive oil"
+        ],
+        "img": "./images/chicken-curry.jpg",
+        "method": "Heat the oil in a flameproof casserole dish or large frying pan over a medium heat. Add the onion and a generous pinch of salt and fry for 8-10 mins, or until the onion has turned golden brown and sticky. Add the garlic and ginger, cooking for a further minute. Chop the chicken into chunky 3cm pieces, add to the pan and fry for 5 mins before stirring through the spice paste and tomatoes, along with 250ml water. Bring to the boil, lower to a simmer and cook on a gentle heat uncovered for 25-30 mins or until rich and slightly reduced. Stir though the yogurt, coriander and ground almonds, season and serve with warm naan or fluffy basmati rice.",
+        "cookingTime": "55 minutes"
+      },
+      {
+        "id": "10",
+        "title": "Carrot cake",
+        "ingredients": [
+          "4 large eggs",
+          "1½ tsp vanilla extract",
+          "½ orange, zested",
+          "265g self-raising flour",
+          "335g light muscovado sugar",
+          "265g carrots (about 3), grated",
+          "100g sultanas or raisins"
+        ],
+        "img": "./images/carrot-cake.jpg",
+        "method": "Add the wet ingredients to the dry, along with the carrots, raisins and half the nuts, if using. Mix well to combine, then divide between the tins. Bake for 25-30 mins or until a skewer inserted into the centre of the cake comes out clean. If any wet mixture clings to the skewer, return to the oven for 5 mins, then check again. Leave to cool in the tins.",
+        "cookingTime": "60 minutes"
+      },
+      {
+        "id": "11",
+        "title": "Beef hotpot",
+        "ingredients": [
+          "2 onions",
+          "300g carrots",
+          "1kg potatoes",
+          "450g lean minced beef",
+          "400g can baked beans",
+          "splash of Worcestershire sauce",
+          "handful of roughly chopped parsley",
+          "100g sultanas or raisins"
+        ],
+        "img": "./images/beef-hotpot.jpg",
+        "method": "Cut each onion into eight wedges. Roughly chop the carrots and cut the potatoes into large chunks. Put the kettle on. Heat a large non-stick pan, add the mince and fry quickly, stirring all the time, until evenly browned. Crumble in the stock cubes and mix well. Add the prepared vegetables, stir them around, then pour in 900ml/1½ pints of hot water from the kettle. Bring to the boil.",
+        "cookingTime": "45 minutes"
+      },
+      {
+        "id": "12",
+        "title": "Vegetarian chilli",
+        "ingredients": [
+          "400g pack oven-roasted vegetables",
+          "1 can kidney beans in chilli sauce",
+          "1 can chopped tomatoes",
+          "1 ready-to-eat mixed grain pouch"
+        ],
+        "img": "./images/Vegetarian-chilli.jpg",
+        "method": "Heat oven to 200C/180C fan/ gas 6. Cook the vegetables in a casserole dish for 15 mins. Tip in the beans and tomatoes, season, and cook for another 10-15 mins until piping hot. Heat the pouch in the microwave on High for 1 min and serve with the chilli.",
+        "cookingTime": "32 minutes"
+      },
+      {
+        "id": "13",
+        "title": "Vegan burgers",
+        "ingredients": [
+          "6 large sweet potatoes",
+          "2 tsp oil , plus extra for the trays",
+          "2 red onions , finely chopped",
+          "2 red chillies",
+          "1 tbsp ground cumin",
+          "1 tbsp ground coriander",
+          "200g polenta",
+          "buns , salsa, onion and salad leaves, to serve",
+          "1 tbsp ground cumin"
+        ],
+        "img": "./images/vegan-burgers.jpg",
+        "method": "Heat oven to 200C/180C fan/gas 6. Pierce the potato skins and place on a baking tray. Bake for 45 mins until really soft. Remove from the oven and leave to cool. Meanwhile, heat the oil in a small pan, add the onions and chillies, and cook for 8-10 mins until soft. Leave to cool. Light the barbecue. When the flames have died down, place a large, well-oiled non-stick frying pan or sturdy baking tray on top of the bars. Cook the burgers in the pan or on the tray for 10 mins each side until nicely browned. Alternatively, heat oven to 220C/200C fan/gas 7 and cook on oiled baking trays for 15 mins. Serve in buns with a dollop of salsa, some onion and salad leaves.",
+        "cookingTime": "1 hr and 10 mins"
+      },
+      {
+        "id": "14",
+        "title": "Banana muffins",
+        "ingredients": [
+          "250g self-raising flour",
+          "1 tsp baking powder",
+          "½ tsp bicarbonate of soda",
+          "110g caster sugar",
+          "75g butter, melted",
+          "1 tsp vanilla extract",
+          "2 eggs",
+          "2 large ripe bananas, mashed"
+        ],
+        "img": "./images/banana-muffins.jpg",
+        "method": "Heat the oven to 190C/170C Fan/gas 5. Line a 12-hole muffin tin with paper cases. Sift together the flour, baking powder, bicarbonate of soda and caster sugar with a big pinch of salt. In a separate bowl mix the melted butter, vanilla extract, eggs, mashed bananas and buttermilk. Make a well in the centre of the dry ingredients and pour the wet ingredients in. Roughly mix together with a fork, being careful not to over-mix.",
+        "cookingTime": "25 minutes"
+      },
+      {
+        "id": "15",
+        "title": "White bread",
+        "ingredients": [
+          "500g strong white flour, plus extra for dusting",
+          "2 tsp salt",
+          "7g sachet fast-action yeast",
+          "300ml water",
+          "2 eggs"
+        ],
+        "img": "./images/White-bread.jpg",
+        "method": "Mix 500g strong white flour, 2 tsp salt and a 7g sachet of fast-action yeast in a large bowl. Make a well in the centre, then add 3 tbsp olive oil and 300ml water, and mix well. If the dough seems a little stiff, add another 1-2 tbsp water and mix well. Tip onto a lightly floured work surface and knead for around 10 mins.",
+        "cookingTime": "2 hours"
+      },
+      {
+        "id": "16",
+        "title": "Strawberry ice cream",
+        "ingredients": [
+          "1 x 400g punnet strawberries",
+          "1 x 250g tub mascarpone",
+          "½ x 397g can condensed milku",
+          "cones and sprinkles , to serve"
+        ],
+        "img": "./images/Strawberry-ice-cream.jpg",
+        "method": "Pull the green hulls out of the strawberries. If they are still quite hard, cut them in half or quarters with a table knife. Tip them into a flat-bottomed dish. Use a potato masher to squash the strawberries as much as you can. Tip into a bowl. Ask your grown-up helper to give you a hand if you need to. Add the mascarpone and mash this in – don’t worry if it is a bit lumpy. Add the condensed milk and mix everything together. Don’t worry if the mix is streaky.",
+        "cookingTime": "30 mins, plus freezing"
+      }
+    ]
+  }
