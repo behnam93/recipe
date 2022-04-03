@@ -34,7 +34,7 @@ export default function Recipe() {
             <div key={data.img} className="col-sm-4">
               <img
                 className="ms-0 img-det"
-                src={`http://localhost:5000/${data.img}`}
+                src={`https://behrecipe.netlify.app/${data.img}`}
                 alt=""
               />
             </div>
